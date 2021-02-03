@@ -10,10 +10,10 @@
     <img src="https://raw.githubusercontent.com/Basicprogrammer10/2B2T-Queue-Notifier/master/2b2t.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">---</h3>
+  <h3 align="center">Window On Top</h3>
 
   <p align="center">
-    ...
+    Lets you force other windows to stay ontop of other windows.
     <br />
     <a href="https://github.com/Basicprogrammer10/2B2T-Queue-Notifier/blob/master/Settings.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,12 +44,9 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#to-do">To Do</a></li>
   </ol>
 </details>
 
@@ -58,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screen Shot](https://i.imgur.com/zDyJ1O6.png)](https://github.com/Basicprogrammer10/2B2T-Queue-Notifier)
+[![Screen Shot](https://i.imgur.com/KTf9thu.png)](https://github.com/Basicprogrammer10/WindowOnTop)
 
 ...
 
@@ -83,26 +80,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-0.  Want to make sure its safe? You can check the Virus total [here](https://www.virustotal.com/gui/file/65637ec39a54bef2c195a6e392c10dce2810fc9e4580ff901ce804c7fb072488/detection), you can also check the sorce code.
 1. Install [.NET Core](https://dotnet.microsoft.com/)
 2. Download the Latest version of this program
 3. Run It!
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-If you need help Setting this up or Want to know what all the settings do then check **![this](https://github.com/Basicprogrammer10/2B2T-Queue-Notifier/blob/master/Settings.md)** out! **(Highly Recommended)**
-
-**Contact me** on Discord at `Sigma#8214` if you still need help.
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -131,9 +111,7 @@ Discord - `Sigma#8214`
 
 Email - `connor@connorcode.com`
 
-Project Link: []()
-
-## To-Do
+Project Link: [https://github.com/Basicprogrammer10/WindowOnTop](https://github.com/Basicprogrammer10/WindowOnTop)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
