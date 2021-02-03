@@ -53,7 +53,7 @@
 
 [![Screen Shot](https://i.imgur.com/KTf9thu.png)](https://github.com/Basicprogrammer10/WindowOnTop)
 
-...
+The Main GUI...
 
 ### Built With
 
@@ -91,14 +91,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the GNU General Public License v3.0. See [`LICENSE`]() for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -107,18 +103,4 @@ Discord - `Sigma#8214`
 
 Email - `connor@connorcode.com`
 
-Project Link: [https://github.com/Basicprogrammer10/WindowOnTop](https://github.com/Basicprogrammer10/WindowOnTop)
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+Project Link: [`https://github.com/Basicprogrammer10/WindowOnTop`](https://github.com/Basicprogrammer10/WindowOnTop)
