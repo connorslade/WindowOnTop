@@ -13,7 +13,7 @@
   <h3 align="center">Window On Top</h3>
 
   <p align="center">
-    Lets you force other windows to stay ontop of other windows.
+    Lets you force windows to stay ontop of other windows.
     <br />
     <br />
     <a href="https://github.com/Basicprogrammer10/WindowOnTop/issues">Report Bug</a>
