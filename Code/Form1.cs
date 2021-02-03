@@ -66,6 +66,19 @@ namespace OnTop
                     HWND_NOTOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
             }
         }
+        private void allOff_click(object sender, EventArgs e)
+        {
+            Process[] processes = Process.GetProcesses();
+
+            foreach (Process process in processes)
+            {
+                if (process.MainWindowTitle.Length >= 1)
+                {
+                    SetWindowPos(process.MainWindowHandle,
+                    HWND_NOTOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
+                }
+            }
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -73,7 +86,7 @@ namespace OnTop
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/Basicprogrammer10");
+            Process.Start("https://github.com/Basicprogrammer10/WindowOnTop");
         }
     }
 }
