@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/Basicprogrammer10/2B2T-Queue-Notifier/master/2b2t.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Basicprogrammer10/WindowOnTop/blob/master/windowIcon.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">Window On Top</h3>
