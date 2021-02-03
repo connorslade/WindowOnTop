@@ -94,7 +94,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0. See [`LICENSE`]() for more information.
+Distributed under the GNU General Public License v3.0. See [`LICENSE`](https://github.com/Basicprogrammer10/WindowOnTop/blob/master/LICENSE) for more information.
 
 <!-- CONTACT -->
 ## Contact
