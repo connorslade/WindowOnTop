@@ -15,14 +15,10 @@
   <p align="center">
     Lets you force other windows to stay ontop of other windows.
     <br />
-    <a href="https://github.com/Basicprogrammer10/2B2T-Queue-Notifier/blob/master/Settings.md"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Basicprogrammer10/WindowOnTop/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Basicprogrammer10/2B2T-Queue-Notifier/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Basicprogrammer10/2B2T-Queue-Notifier/issues">Request Feature</a>
+    <a href="https://github.com/Basicprogrammer10/WindowOnTop/issues">Request Feature</a>
   </p>
 </p>
 
