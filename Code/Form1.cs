@@ -15,9 +15,7 @@ namespace OnTop
     {
         [DllImport("user32.dll", SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
-        private static extern bool SetWindowPos(IntPtr hWnd,
-            int hWndInsertAfter, int x, int y, int cx, int cy, int uFlags);
-
+        private static extern bool SetWindowPos(IntPtr hWnd, int hWndInsertAfter, int x, int y, int cx, int cy, int uFlags);
         private const int HWND_TOPMOST = -1;
         private const int HWND_NOTOPMOST = -2;
         private const int SWP_NOMOVE = 0x0002;
@@ -47,8 +45,7 @@ namespace OnTop
             if (this.listBox1.SelectedIndex != -1)
             {
                 Process process = this.listBox1.SelectedItem as Process;
-                SetWindowPos(process.MainWindowHandle,
-                    HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
+                SetWindowPos(process.MainWindowHandle, HWND_TOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
             }
         }
 
@@ -62,8 +59,7 @@ namespace OnTop
             if (this.listBox1.SelectedIndex != -1)
             {
                 Process process = this.listBox1.SelectedItem as Process;
-                SetWindowPos(process.MainWindowHandle,
-                    HWND_NOTOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
+                SetWindowPos(process.MainWindowHandle, HWND_NOTOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
             }
         }
         private void allOff_click(object sender, EventArgs e)
@@ -78,10 +74,6 @@ namespace OnTop
                     HWND_NOTOPMOST, 0, 0, 0, 0, SWP_NOMOVE | SWP_NOSIZE);
                 }
             }
-        }
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
